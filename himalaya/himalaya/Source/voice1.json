@@ -1,0 +1,72 @@
+{
+    "data": {
+        "categoryResults": [{
+            "albumIds": [40677640, 16468777, 39163725, 38779547, 38989407, 28924520, 40610972, 38704668, 40198127, 39796060, 40511197, 39643180, 38092020, 9112366, 40092644, 38567236, 39425042, 38988728, 38639653, 40732869, 5110262],
+            "categoryId": 2,
+            "categoryName": "音乐"
+        }, {
+            "albumIds": [4756811, 39808418, 39807688, 32062140, 30586083, 22129475, 20209664, 14621695, 12607970],
+            "categoryId": 3,
+            "categoryName": "有声书"
+        }, {
+            "albumIds": [40389630, 33935496, 31967355, 36583539, 39246532, 39248127, 40161763, 38781475, 40109836],
+            "categoryId": 9,
+            "categoryName": "历史"
+        }, {
+            "albumIds": [36209743, 30589078, 4436043, 38128114, 37427971, 40800646, 40034123, 40975120],
+            "categoryId": 6,
+            "categoryName": "儿童"
+        }, {
+            "albumIds": [39762979, 35516850, 39489029, 40195185],
+            "categoryId": 39,
+            "categoryName": "人文"
+        }, {
+            "albumIds": [40732940, 39581929, 40757445],
+            "categoryId": 1,
+            "categoryName": "头条"
+        }, {
+            "albumIds": [39879763, 4492385, 6828405],
+            "categoryId": 10,
+            "categoryName": "情感生活"
+        }, {
+            "albumIds": [39047497, 37148877, 39952843],
+            "categoryId": 13,
+            "categoryName": "个人成长"
+        }, {
+            "albumIds": [6311035],
+            "categoryId": 4,
+            "categoryName": "娱乐"
+        }, {
+            "albumIds": [6371614],
+            "categoryId": 8,
+            "categoryName": "商业财经"
+        }, {
+            "albumIds": [40507298],
+            "categoryId": 12,
+            "categoryName": "相声评书"
+        }, {
+            "albumIds": [39454341],
+            "categoryId": 15,
+            "categoryName": "广播剧"
+        }, {
+            "albumIds": [34968559],
+            "categoryId": 17,
+            "categoryName": "教育培训"
+        }, {
+            "albumIds": [39732147],
+            "categoryId": 18,
+            "categoryName": "IT科技"
+        }, {
+            "albumIds": [26308391],
+            "categoryId": 92,
+            "categoryName": "少儿教育"
+        }, {
+            "albumIds": [32481716],
+            "categoryId": 24,
+            "categoryName": "二次元"
+        }],
+        "showCategoryResults": true,
+        "totalSize": 68
+    },
+    "ret": 0
+}

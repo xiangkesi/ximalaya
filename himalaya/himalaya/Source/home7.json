@@ -1,0 +1,1368 @@
+{
+    "msg": "0",
+    "ret": 0,
+    "code": "43_310000_3100",
+    "offset": 120,
+    "bucketId": 200050,
+    "body": [{
+        "item": {
+            "albumId": 34763782,
+            "albumTitle": "世界未解之谜",
+            "beenInListenList": false,
+            "category": "人文",
+            "categoryId": 39,
+            "commentsCounts": 21,
+            "coverPath": "http://imagev2.xmcdn.com/group77/M04/95/5E/wKgO1V5gs8eTgnvEAAYUzSNt8os813.png!op_type=3&columns=290&rows=290",
+            "createdAt": 1583395953000,
+            "dislikeReasonNew": {
+                "default": [{
+                    "codeType": "DEFAULT",
+                    "name": "不感兴趣"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "听过了"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "内容质量差"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "不喜欢主播"
+                }],
+                "traits": [{
+                    "codeType": "CATEGORY",
+                    "name": "人文"
+                }]
+            },
+            "dislikeReasons": [{
+                "name": "不感兴趣",
+                "value": "DEFAULT"
+            }, {
+                "name": "听过了",
+                "value": "DEFAULT"
+            }, {
+                "name": "内容质量差",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢主播",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢:人文",
+                "value": "CATEGORY"
+            }],
+            "duration": 599,
+            "intro": "本节目以知识性、客观性、趣味性为原则，全方位、多角度展示最具探索意义的各类未解之谜。从人类生命到动植物，从地理自然到宇宙外星，从文化技术到历史，所涉范围比较广泛。无论是不可思议的文明现象，还是难以想象的生命奇迹；无论是扑朔迷离众说纷纭的名人传奇，还是被刻意隐瞒或试图篡改的历史疑云，该节目无不娓娓道来。为了揭示这些谜团背后的真相，我们以最新的研究成果为基础，同时参考相关文献与资料，并综合专家学者们的",
+            "isFree": false,
+            "isPaid": false,
+            "isVideo": false,
+            "nickname": "雨金的有声世界",
+            "paidType": 0,
+            "playPathAacv164": "http://aod.cos.tx.xmcdn.com/group78/M05/90/C3/wKgO1l5gtH_wWgavAErSvvlb33s382.m4a",
+            "playPathAacv224": "http://aod.cos.tx.xmcdn.com/group78/M05/90/C3/wKgO1l5gtH2hiLLyAB0ZEwxnDQM693.m4a",
+            "playsCounts": 34451,
+            "recInfo": {
+                "recReason": "人文",
+                "recReasonType": "TAG",
+                "recSrc": "FOPWD.FTND17.CV",
+                "recTrack": "FD.R.1251.itfreq"
+            },
+            "title": "外星人隐居地球之谜- 形态各异的天外来客--UFO的特异功能",
+            "trackId": 263462528,
+            "uid": 201841807,
+            "videoCover": "http://imagev2.xmcdn.com/group56/M03/45/6F/wKgLgFyd2j6Dc3Q4AAAZzAvibGM948.png!op_type=5&upload_type=discoverRecommend&device_type=ios&name=large"
+        },
+        "itemType": "TRACK"
+    }, {
+        "item": {
+            "albumId": 33971830,
+            "albumScore": 10.0,
+            "category": "娱乐",
+            "categoryId": 4,
+            "contractStatus": 0,
+            "coverPath": "http://imagev2.xmcdn.com/group82/M01/06/63/wKg5HF8nIJLQUMBBAASzFaNQ4wg518.jpg!op_type=5&upload_type=album&device_type=ios&name=large&magick=png",
+            "dislikeReasonNew": {
+                "default": [{
+                    "codeType": "DEFAULT",
+                    "name": "不感兴趣"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "听过了"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "内容质量差"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "不喜欢主播"
+                }],
+                "traits": [{
+                    "codeType": "CATEGORY",
+                    "name": "娱乐"
+                }, {
+                    "codeType": "FLATCATEGORY",
+                    "name": "悬疑"
+                }]
+            },
+            "dislikeReasons": [{
+                "name": "不感兴趣",
+                "value": "DEFAULT"
+            }, {
+                "name": "听过了",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢主播",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢:娱乐",
+                "value": "CATEGORY"
+            }, {
+                "name": "不喜欢:悬疑",
+                "value": "FLATCATEGORY"
+            }],
+            "firstTrackId": 311924977,
+            "firstTrackTitle": "带你走进毛骨悚然的血腥现场",
+            "intro": "带你走进毛骨悚然的血腥现场",
+            "isPaid": false,
+            "isSampleAlbumTimeLimited": false,
+            "lastUptrackAt": 1599720602000,
+            "lastUptrackTitle": "血红色风衣 2",
+            "nickname": "逆鳞寒讲故事",
+            "playsCounts": 545997,
+            "preferredType": 0,
+            "recInfo": {
+                "recReasonType": "RECSYS",
+                "recSrc": "ABM_UCFJ5HB.DeepFM~231V5.CV",
+                "recTrack": "FD.AMRA.1241.itfreq"
+            },
+            "serialState": 0,
+            "subscribeStatus": false,
+            "title": "暴走恐怖故事",
+            "tracks": 73,
+            "type": 0,
+            "uid": 130838400
+        },
+        "itemType": "ALBUM"
+    }, {
+        "item": {
+            "albumId": 5008711,
+            "albumScore": 9.6,
+            "category": "人文",
+            "categoryId": 39,
+            "contractStatus": 0,
+            "coverPath": "http://imagev2.xmcdn.com/group78/M07/39/44/wKgO1l6MboCyVxuGAABDyFjH3i8518.jpg!op_type=5&upload_type=album&device_type=ios&name=large&magick=png",
+            "dislikeReasonNew": {
+                "default": [{
+                    "codeType": "DEFAULT",
+                    "name": "不感兴趣"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "听过了"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "内容质量差"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "不喜欢主播"
+                }],
+                "traits": [{
+                    "codeType": "CATEGORY",
+                    "name": "人文"
+                }, {
+                    "codeType": "FLATCATEGORY",
+                    "name": "佛学心灵"
+                }]
+            },
+            "dislikeReasons": [{
+                "name": "不感兴趣",
+                "value": "DEFAULT"
+            }, {
+                "name": "听过了",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢主播",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢:人文",
+                "value": "CATEGORY"
+            }, {
+                "name": "不喜欢:佛学心灵",
+                "value": "FLATCATEGORY"
+            }],
+            "firstTrackId": 334332252,
+            "firstTrackTitle": "我们真的有前世吗？",
+            "intro": "我们真的有前世吗？",
+            "isPaid": false,
+            "isSampleAlbumTimeLimited": false,
+            "lastUptrackAt": 1599449666000,
+            "lastUptrackTitle": "人在做，天在看，是忠是奸天会辨，是恶是善天会判",
+            "nickname": "日行一善共修平台",
+            "playsCounts": 83273954,
+            "preferredType": 0,
+            "recInfo": {
+                "recReason": "NO.26 人文 口碑榜",
+                "recReasonType": "RECSYS",
+                "recSrc": "ABM_UCFJ5HB.DeepFM~231V5.CV",
+                "recTrack": "FD.AMRA.1241.itfreq"
+            },
+            "serialState": 1,
+            "subscribeStatus": false,
+            "title": "人生就是放下",
+            "tracks": 906,
+            "type": 0,
+            "uid": 46141065
+        },
+        "itemType": "ALBUM"
+    }, {
+        "item": {
+            "list": [{
+                "bizType": 5,
+                "categoryId": 2,
+                "categoryName": "娱乐",
+                "channel": 1,
+                "chatId": 2246627,
+                "code": "SUCCEED",
+                "coverUrl": "http://imagev2.xmcdn.com/group87/M09/43/11/wKg5IV77DfzwlZgHAAD-Mi7D2D8876.jpg!op_type=5&upload_type=album&device_type=ios&name=medium&magick=png",
+                "fmId": 1384158,
+                "hotNum": 4601,
+                "id": 369122,
+                "masterUid": 213947254,
+                "mode": 1,
+                "presideAvatar": "group84/M08/1C/9A/wKg5Hl9ANPXSCP8UAACKPFTkrn8287.jpg",
+                "presideUid": 91225137,
+                "presidentName": "只是路过_",
+                "ruleInfo": "欢迎走进醉梦，醉梦招募男神女神\n\n本场主持 : 路过\n\n本轮为上下团战：主持路过，2麦白柯 ，3麦阿豪 pk 5麦丸丸绔，6麦染夏\n\n惩罚分数最低的一方，截止到  15：30结束   \n\n\n💞┈┈┈┈┈┈━━┓\n❣️素未相识，此声相遇\n❣️心怀感恩，踏梦前行\n┗━━┈┈┈┈┈┈💞\n喜欢我们，点个关注\n加粉丝团，守护我们\n┗━━┈┈┈┈┈━━┛ \n\n🦄满眼是星河，余生皆是你",
+                "subBizType": 1,
+                "title": "醉梦_招优质主持👰"
+            }, {
+                "bizType": 5,
+                "categoryId": 1,
+                "categoryName": "交友",
+                "channel": 1,
+                "chatId": 2383284,
+                "code": "SUCCEED",
+                "coverUrl": "http://imagev2.xmcdn.com/group83/M03/17/A4/wKg5HV8oPNjw6nWuAAB9c7hum3Q750.jpg!op_type=5&upload_type=album&device_type=ios&name=medium&magick=png",
+                "fmId": 1400622,
+                "hotNum": 4578,
+                "id": 380460,
+                "masterUid": 202963303,
+                "mode": 1,
+                "presideAvatar": "group85/M0B/5C/48/wKg5H19GItmBTLQFAAFU6N5iOwQ593.jpg",
+                "presideUid": 223994201,
+                "presidentName": "JT_依梦",
+                "ruleInfo": "❤️🌸中午好\n当前主持：依梦 南栀 小陈粒 阡陌\n欢迎来到惊鸿\n\n/pk档/ \n\n祝你玩的开心\n🕊️ 在线时间：24h全天在线等你来看我\n---感谢你的所有支持，给了我坚持下去的勇气----",
+                "subBizType": 1,
+                "title": "惊鸿"
+            }, {
+                "bizType": 5,
+                "categoryId": 1,
+                "categoryName": "交友",
+                "channel": 1,
+                "chatId": 2384157,
+                "code": "SUCCEED",
+                "coverUrl": "http://imagev2.xmcdn.com/group85/M09/A0/B0/wKg5H18EpFGhhCRoAAB-Af66j14079.jpg!op_type=5&upload_type=album&device_type=ios&name=medium&magick=png",
+                "fmId": 1400546,
+                "hotNum": 4481,
+                "id": 380524,
+                "masterUid": 243325407,
+                "mode": 1,
+                "presideAvatar": "group85/M06/05/82/wKg5H19V9PmRWlGVAABtal74iRg177.jpg",
+                "presideUid": 36103886,
+                "presidentName": "玫瑰_Nb",
+                "ruleInfo": "欢迎来到氧气\n\n记得收藏房间点一点关注！\n绿色直播间！！！\n主持：玫瑰\n陪档：\n\n\n苹果手机 支付宝公众号喜马拉雅APP 充值 \n\n希望在氧气玩的开心",
+                "subBizType": 1,
+                "title": "你的氧气在这里~招主持"
+            }, {
+                "bizType": 5,
+                "categoryId": 1,
+                "categoryName": "交友",
+                "channel": 1,
+                "chatId": 2376552,
+                "code": "SUCCEED",
+                "coverUrl": "http://imagev2.xmcdn.com/group82/M03/34/39/wKg5HF8q5CawHktuAAMnOEDhgZA518.jpg!op_type=5&upload_type=album&device_type=ios&name=medium&magick=png",
+                "fmId": 1399508,
+                "hotNum": 4557,
+                "id": 379856,
+                "masterUid": 156268825,
+                "mode": 1,
+                "presideAvatar": "group85/M0A/33/64/wKg5JV9Z0HXRaEpiAAAyu-BCarQ221.jpg",
+                "presideUid": 236780182,
+                "presidentName": "Once_枉反",
+                "ruleInfo": "欢迎走进Once24小时交友厅\n\n上周魅力主持🥰\n开心👏\n\n最牛神豪🐷\n不念过去不畏将来👍\n\n一个飞天小熊告白墙7天\n\n比如：\n某野豆豆：老王我爱你 就像老鼠爱大米❤️\n\n糖果机点杀3千档以内  丘比特点杀6千档以内  一呆梨炮点杀1万档以内  飞天小熊点杀2万档以内\n【救点杀 （double双倍）价值礼物救起】💥\n飞天小熊互动12小时  梦幻岛互动24小时✨",
+                "subBizType": 1,
+                "title": "Once❤️不念过去不畏将来冠"
+            }, {
+                "bizType": 5,
+                "categoryId": 1,
+                "categoryName": "交友",
+                "channel": 1,
+                "chatId": 2382965,
+                "code": "SUCCEED",
+                "coverUrl": "http://imagev2.xmcdn.com/group86/M00/3A/AA/wKg5IF752OvhulTBAEA6dewqSAE477.jpg!op_type=5&upload_type=album&device_type=ios&name=medium&magick=png",
+                "fmId": 1400609,
+                "hotNum": 4549,
+                "id": 380439,
+                "masterUid": 164643169,
+                "mode": 1,
+                "presideAvatar": "group86/M01/3C/A7/wKg5IF8rjw2CXMWhAABGjVEQ_yg319.jpg",
+                "presideUid": 146365625,
+                "presidentName": "BF_抱抱",
+                "ruleInfo": "🎊小可爱们的工作时间🎊\n——————————————\n🌸00-02:  西雅、狗哥、晶晶 \n🌸08-10:   球儿、马松、猫一\n🌸10-12:   林妤、猫一  \n🌸12-14:   球球、狗哥  \n🌸14-16:   抱抱、林妤\n🌸16-18:   浅柔、晶晶、\n🌸18-20:   马松、浅柔、西雅\n🌸20-22:  林妤、温楚、猫一\n🌸22-24:  西雅、狗哥、抱抱\n———————————————\n🍎苹果用户充值请关注微信公众号：\n喜马精品—打字 “喜钻充值”— 点击 “戳我充值”\n———————————————\n🎊本周9.12日周年庆🎊奖励敬请期待🥳",
+                "subBizType": 1,
+                "title": "梦幻💕等君归"
+            }, {
+                "bizType": 5,
+                "categoryId": 1,
+                "categoryName": "交友",
+                "channel": 1,
+                "chatId": 615123,
+                "code": "SUCCEED",
+                "coverUrl": "http://imagev2.xmcdn.com/group84/M05/4D/6A/wKg5JF78BtLD5OVhAAPZkXHKIY8381.jpg!op_type=5&upload_type=album&device_type=ios&name=medium&magick=png",
+                "fmId": 1200408,
+                "hotNum": 4513,
+                "hotScore": 6627,
+                "id": 200034,
+                "masterUid": 130929038,
+                "mode": 1,
+                "presideAvatar": "group86/M02/2D/62/wKg5IF9Y2S3haFV4AABWEeukcWM354.jpg",
+                "presideUid": 186675470,
+                "presidentName": "夏天_Queen",
+                "ruleInfo": "本档主持：七夏\n\n承蒙遇见 三生有幸\n点击关注 总有一个女嘉宾走进你心里\n\n\n游戏1：女神争夺战\n花花最高的获胜\n花花最低的接受惩罚\n\n游戏2：左右/上下团\n花花最高的一方集体获胜\n花花最低的一方接受惩罚\n\n在线时间：24小时全天等待你的陪伴\n（虽然素未谋面，却想共度余声）\n\n\n苹果用户充值请关注微信公众号：喜马APP/  支付宝 喜马精品",
+                "subBizType": 1,
+                "title": "倾城❤与你相遇"
+            }, {
+                "bizType": 5,
+                "categoryId": 1,
+                "categoryName": "交友",
+                "channel": 1,
+                "chatId": 2391898,
+                "code": "SUCCEED",
+                "coverUrl": "http://imagev2.xmcdn.com/group85/M01/FB/A1/wKg5JV9Ux3LQakOZAACvVW_VhT8732.jpg!op_type=5&upload_type=album&device_type=ios&name=medium&magick=png",
+                "fmId": 1401365,
+                "hotNum": 998,
+                "id": 381109,
+                "masterUid": 118643032,
+                "mode": 1,
+                "presideAvatar": "group87/M01/3E/5D/wKg5J19DqVSSARbuAADSHlFkvkA368.jpg",
+                "presideUid": 118643032,
+                "presidentName": "Hq_羊羊",
+                "ruleInfo": "🎉欢迎宝贝走进幻情互动厅🎉\n互动游戏❤情感交友💑甜蜜陪伴💋\n30💎 爆音自我介绍（与你相遇❤）\n300💎 互动小游戏\n✨问问题，聊天，表白，撒娇。当然了，背楼，数30，情感咨询，pia戏，绕口令，成语接龙，动物世界，37过，唱歌✨\n全麦100💎  互动小游戏 \n🍀谁是卧底，唱歌接龙，撒娇接龙，萝卜蹲，pia戏，大富翁，捕鱼🐠 \n❤除以上玩法可自定义玩法，拒绝低俗❤\n🎤应聘主持私信厅管 👑 Hq_海王 👑",
+                "subBizType": 1,
+                "title": "新厅开业全麦优质💋招冠名"
+            }, {
+                "bizType": 5,
+                "categoryId": 1,
+                "categoryName": "交友",
+                "channel": 1,
+                "chatId": 2420951,
+                "code": "SUCCEED",
+                "coverUrl": "http://imagev2.xmcdn.com/group83/M00/E6/17/wKg5I19SqXHiMc5ZAAcDTrTe0oM112.jpg!op_type=5&upload_type=album&device_type=ios&name=medium&magick=png",
+                "fmId": 1403786,
+                "hotNum": 4057,
+                "id": 383360,
+                "masterUid": 12049866,
+                "mode": 1,
+                "presideAvatar": "group83/M03/1F/F5/wKg5I19AkX_DiQbGAACX15QIwHo137.jpg",
+                "presideUid": 125200017,
+                "presidentName": "Sm_听友",
+                "ruleInfo": "欢迎走进声临其境，希望大家玩得开心快乐\n\n本场主持 : 积惯\n \n\n本轮为个人站：\n分低的将接受惩罚\n\n本场到11：11结束\n\n\n  \n ️友情提醒️：应聘，宝贝请咨询麦上主持️\n最新玩法：大富翁",
+                "subBizType": 1,
+                "title": "声临其境"
+            }, {
+                "bizType": 5,
+                "categoryId": 1,
+                "categoryName": "交友",
+                "channel": 1,
+                "chatId": 2430061,
+                "code": "SUCCEED",
+                "coverUrl": "http://imagev2.xmcdn.com/group82/M0B/BF/DC/wKg5Il9PjIrQ62p8AADTf0VyBCo803.jpg!op_type=5&upload_type=album&device_type=ios&name=medium&magick=png",
+                "fmId": 1403926,
+                "hotNum": 3892,
+                "id": 383453,
+                "masterUid": 145000340,
+                "mode": 1,
+                "presideAvatar": "group84/M05/97/99/wKg5JF9Ld8XxbB81AAEM53InK2s989.jpg",
+                "presideUid": 76360867,
+                "presidentName": "曦琰_Angel",
+                "ruleInfo": "新厅第十天\n谢谢各位哥哥姐姐的支持！\n三分喜欢加关注，七分喜欢送礼物👍",
+                "subBizType": 1,
+                "title": "音为You你-新厅招主播"
+            }, {
+                "bizType": 5,
+                "categoryId": 1,
+                "categoryName": "交友",
+                "channel": 1,
+                "chatId": 2411459,
+                "code": "SUCCEED",
+                "coverUrl": "http://imagev2.xmcdn.com/group85/M09/B1/D0/wKg5H182ZsWx_uWlAACW25ZO0no987.jpg!op_type=5&upload_type=album&device_type=ios&name=medium&magick=png",
+                "fmId": 1403301,
+                "hotNum": 4307,
+                "id": 382832,
+                "masterUid": 250740279,
+                "mode": 1,
+                "presideAvatar": "group86/M06/05/00/wKg5Jl9VsG2Tg8dnAABpNRUfV7o759.jpg",
+                "presideUid": 250760885,
+                "presidentName": "Skr_暖男",
+                "ruleInfo": "👏欢迎来到温柔湘\n💫本档主持：Skr_有道\n\n\n       ———🌟———\n✨在线时间：中午十二点开厅八位男神女神任你挑\n✨心动不如行动\n✨喜欢点击左上角：收藏\n     🌈🌈🌈",
+                "subBizType": 1,
+                "title": "做你的宝贝（24h找主持）"
+            }, {
+                "bizType": 5,
+                "categoryId": 1,
+                "categoryName": "交友",
+                "channel": 1,
+                "chatId": 2372452,
+                "code": "SUCCEED",
+                "coverUrl": "http://imagev2.xmcdn.com/group82/M05/2F/38/wKg5Il9Zk9SgXX7WAAade6E-4dM055.jpg!op_type=5&upload_type=album&device_type=ios&name=medium&magick=png",
+                "fmId": 888666,
+                "hotNum": 4870,
+                "id": 379530,
+                "masterUid": 240000479,
+                "mode": 1,
+                "presideAvatar": "group83/M04/29/AB/wKg5I19BQuaA67VVAALKB5sow6g860.jpg",
+                "presideUid": 237723338,
+                "presidentName": "Ms_月亮",
+                "ruleInfo": "欢迎走进甜蜜暴击   ❤️\n想和你故事从这里开始\n游戏规则\n团战模式❤️ \n分上下或者左右团进行团队pk \n输的一方惩罚    \n个人模式❤️      \n个人为战谁与争峰，分数低的女嘉宾惩罚\n点歌模式❤️\n一个鸳鸯锅点歌\n更多玩法等你开发.",
+                "subBizType": 1,
+                "title": "甜蜜暴击❤️遇见心动"
+            }, {
+                "bizType": 5,
+                "categoryId": 1,
+                "categoryName": "交友",
+                "channel": 1,
+                "chatId": 2383955,
+                "code": "SUCCEED",
+                "coverUrl": "http://imagev2.xmcdn.com/group86/M03/C3/AC/wKg5IF9PiMmR1nGlAAC4VKUPqU8332.jpg!op_type=5&upload_type=album&device_type=ios&name=medium&magick=png",
+                "fmId": 1400641,
+                "hotNum": 4524,
+                "id": 380509,
+                "masterUid": 74441329,
+                "mode": 1,
+                "presideAvatar": "group86/M06/33/35/wKg5IF9ZlKaAyc1cAAB5byrCDO8406.jpg",
+                "presideUid": 108341995,
+                "presidentName": "渣渣_野",
+                "ruleInfo": "入目无他人、四下皆是你\n\n欢迎来到  相守_\n\n                \n点击你喜欢的主持头像可以进行支持哦～\n\n－－－－－－游戏分割线－－－－－－\n♥️游戏一:主持魅力争夺战\n头上花花最多是女神/男神\n头上花花最少受罚\n【惩罚线1000花花】\n\n♥️游戏二:上下/左右团战\n花花加起来最多的一组获胜\n花花加起来最少的一组受罚\n【惩罚线1000花花】\n\n♥️游戏三:点灯\n游戏过程中任意主持头上花花超过3k可以点灯pk场上所有主持\n\n♥️游戏四:点杀\n1000分以上特效可以点杀任意主持  直接受惩罚    \n\n－－－－－－－🍀🍀🍀－－－－－－－\n\n☀刚好遇见你、余生都是你☀",
+                "subBizType": 1,
+                "title": "我想见你♥不远万里"
+            }],
+            "moduleType": "voice_room_card",
+            "title": "语音房"
+        },
+        "itemType": "MODULE"
+    }, {
+        "item": {
+            "albumId": 6234075,
+            "albumTitle": "一星期一本书",
+            "beenInListenList": false,
+            "category": "人文",
+            "categoryId": 39,
+            "commentsCounts": 19,
+            "coverPath": "http://imagev2.xmcdn.com/group28/M0A/8B/0C/wKgJSFlbMfPy1EReAACCF_27DgE668.jpg!op_type=3&columns=290&rows=290",
+            "createdAt": 1597369614000,
+            "dislikeReasonNew": {
+                "default": [{
+                    "codeType": "DEFAULT",
+                    "name": "不感兴趣"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "听过了"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "内容质量差"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "不喜欢主播"
+                }],
+                "traits": [{
+                    "codeType": "CATEGORY",
+                    "name": "人文"
+                }]
+            },
+            "dislikeReasons": [{
+                "name": "不感兴趣",
+                "value": "DEFAULT"
+            }, {
+                "name": "听过了",
+                "value": "DEFAULT"
+            }, {
+                "name": "内容质量差",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢主播",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢:人文",
+                "value": "CATEGORY"
+            }],
+            "duration": 316,
+            "intro": "再忙也不忘记充电",
+            "isFree": false,
+            "isPaid": false,
+            "isVideo": false,
+            "nickname": "一星期一本书",
+            "paidType": 0,
+            "playPathAacv164": "http://aod.cos.tx.xmcdn.com/group87/M03/A9/64/wKg5IV817RfQF-25ACcUr6rlyX4232.m4a",
+            "playPathAacv224": "http://aod.cos.tx.xmcdn.com/group87/M03/A9/BB/wKg5J1817RbTCTqRAA7y6F6Cvus866.m4a",
+            "playsCounts": 32957,
+            "recInfo": {
+                "recReason": "人文",
+                "recReasonType": "TAG",
+                "recSrc": "SCTR.FTND17.CV",
+                "recTrack": "FD.R.1251.itfreq"
+            },
+            "title": "人一生只欠两个人",
+            "trackId": 326920169,
+            "uid": 68473861
+        },
+        "itemType": "TRACK"
+    }, {
+        "item": {
+            "adInfo": {
+                "adId": 727942,
+                "adType": 0,
+                "categoryId": -1,
+                "clickTokens": ["BTP+TsBywreTTsLQlZpsRMsh+0HI1Tk8elq63bv33+g=", "7jlUCIoTZdR05rNeLowYubpUzULsCaRoyGaqawBS0K4=", "825A3Y4G+766DKAoGUZBfsR0SYOLNK6uuR/cjAuWtz4="],
+                "clickType": 1,
+                "cover": "",
+                "description": "",
+                "keywordIds": [-1],
+                "link": "http://ad.ximalaya.com/adrecord?sdn=H4sIAAAAAAAAAKtWykhNTEktUrLKK83J0VFKzs_PzkyF8QoSixJzU0tSi4qVrKqVElM8S1JzPVOUrJTMjcwtTYyUamsB6Gaq00AAAAA&ad=727942&xmly=uiwebview&rec_src=anchorBidHrfyV44&rec_track=r.20000&cpcPrice=CS1c8JGzFKSTNlZad1OaWw%3D%3D",
+                "openlinkType": 0,
+                "order": 6,
+                "paid": false,
+                "positionName": "home_recommend_for_you",
+                "promoteAlbumId": 2861055,
+                "promoteId": 2861055,
+                "promoteTrackId": 82875617,
+                "promoteType": "TRACK",
+                "realLink": "iting://open?msg_type=11&track_id=82875617",
+                "recSrc": "anchorBidHrfyV44",
+                "recTrack": "r.20000",
+                "responseId": 4118834993361,
+                "shareFlag": false,
+                "showTokens": [],
+                "subcategoryId": -1,
+                "thirdClickStatUrls": [],
+                "thirdShowStatUrls": [],
+                "thirdStatUrl": ""
+            },
+            "albumId": 2861055,
+            "albumTitle": "挽回爱情婚姻前任男友操作指南",
+            "beenInListenList": false,
+            "category": "情感生活",
+            "categoryId": 10,
+            "commentsCounts": 35,
+            "coverPath": "http://imagev2.xmcdn.com/group85/M08/37/F3/wKg5H175qECAsq4gAAEv5JDXt6k708.jpg!op_type=3&columns=290&rows=290",
+            "createdAt": 1523833204000,
+            "dislikeReasonNew": {
+                "default": [{
+                    "codeType": "DEFAULT",
+                    "name": "不感兴趣"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "听过了"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "内容质量差"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "不喜欢主播"
+                }],
+                "traits": []
+            },
+            "dislikeReasons": [{
+                "name": "不感兴趣",
+                "value": "DEFAULT"
+            }, {
+                "name": "听过了",
+                "value": "DEFAULT"
+            }, {
+                "name": "内容质量差",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢主播",
+                "value": "DEFAULT"
+            }],
+            "duration": 506,
+            "isFree": false,
+            "isPaid": false,
+            "isVideo": false,
+            "nickname": "挽回爱情C情感",
+            "paidType": 0,
+            "playPathAacv164": "http://aod.cos.tx.xmcdn.com/group70/M07/00/4F/wKgOzl6hYanzXrtIAD81tkW657I797.m4a",
+            "playPathAacv224": "http://aod.cos.tx.xmcdn.com/group70/M07/00/0B/wKgO2F6hYabxwByeABiW5z2JIDg677.m4a",
+            "playsCounts": 87544,
+            "recInfo": {
+                "recReason": "情感生活 | 挽回爱情",
+                "recReasonType": "TAG"
+            },
+            "title": "挽回爱情系列课程：复合前奏——用好进阶法则和暧昧技巧",
+            "trackId": 82875617,
+            "uid": 12887922
+        },
+        "itemType": "TRACK"
+    }, {
+        "item": {
+            "albumId": 11251978,
+            "albumScore": 9.5,
+            "category": "人文",
+            "categoryId": 39,
+            "contractStatus": 0,
+            "coverPath": "http://imagev2.xmcdn.com/group40/M06/2E/D8/wKgJT1rOC_mz1A3QAADOieTrbgc854.png!op_type=5&upload_type=album&device_type=ios&name=large&magick=png",
+            "dislikeReasonNew": {
+                "default": [{
+                    "codeType": "DEFAULT",
+                    "name": "不感兴趣"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "听过了"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "内容质量差"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "不喜欢主播"
+                }],
+                "traits": [{
+                    "codeType": "CATEGORY",
+                    "name": "人文"
+                }, {
+                    "codeType": "FLATCATEGORY",
+                    "name": "启蒙"
+                }]
+            },
+            "dislikeReasons": [{
+                "name": "不感兴趣",
+                "value": "DEFAULT"
+            }, {
+                "name": "听过了",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢主播",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢:人文",
+                "value": "CATEGORY"
+            }, {
+                "name": "不喜欢:启蒙",
+                "value": "FLATCATEGORY"
+            }],
+            "firstTrackId": 335402756,
+            "firstTrackTitle": "让阅读成为习惯，让心灵回归平静。",
+            "intro": "让阅读成为习惯，让心灵回归平静。",
+            "isPaid": false,
+            "isSampleAlbumTimeLimited": false,
+            "lastUptrackAt": 1599742806000,
+            "lastUptrackTitle": "信仰，让人心有所往",
+            "nickname": "有书",
+            "playsCounts": 56612865,
+            "preferredType": 0,
+            "recInfo": {
+                "recReason": "NO.12 人文 热播榜",
+                "recReasonType": "RECSYS",
+                "recSrc": "ABM_UCFJ5HB.DeepFM~231V5.CV",
+                "recTrack": "FD.AMRA.1241.itfreq"
+            },
+            "serialState": 1,
+            "subscribeStatus": false,
+            "title": "有书 名家散文",
+            "tracks": 1091,
+            "type": 0,
+            "uid": 43829883
+        },
+        "itemType": "ALBUM"
+    }, {
+        "item": {
+            "albumId": 5088879,
+            "albumScore": 9.5,
+            "category": "人文",
+            "categoryId": 39,
+            "contractStatus": 0,
+            "coverPath": "http://imagev2.xmcdn.com/group63/M06/61/77/wKgMaF0Is9HwoLx6AAHSFYDd688835.png!op_type=5&upload_type=album&device_type=ios&name=large&magick=png",
+            "dislikeReasonNew": {
+                "default": [{
+                    "codeType": "DEFAULT",
+                    "name": "不感兴趣"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "听过了"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "内容质量差"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "不喜欢主播"
+                }],
+                "traits": [{
+                    "codeType": "CATEGORY",
+                    "name": "人文"
+                }, {
+                    "codeType": "FLATCATEGORY",
+                    "name": "启蒙"
+                }]
+            },
+            "dislikeReasons": [{
+                "name": "不感兴趣",
+                "value": "DEFAULT"
+            }, {
+                "name": "听过了",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢主播",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢:人文",
+                "value": "CATEGORY"
+            }, {
+                "name": "不喜欢:启蒙",
+                "value": "FLATCATEGORY"
+            }],
+            "firstTrackId": 335369017,
+            "firstTrackTitle": "发掘人性中的真善美，每日分享一篇美文",
+            "intro": "发掘人性中的真善美，每日分享一篇美文",
+            "isPaid": false,
+            "isSampleAlbumTimeLimited": false,
+            "lastUptrackAt": 1599739285000,
+            "lastUptrackTitle": "微信新功能曝光：不轻易评价别人，是一种高级修养",
+            "nickname": "读者",
+            "playsCounts": 796690182,
+            "preferredType": 0,
+            "recInfo": {
+                "recReason": "NO.1 人文 热播榜",
+                "recReasonType": "RECSYS",
+                "recSrc": "ABM_UCFJ5HB.DeepFM~231V5.CV",
+                "recTrack": "FD.AMRA.1241.itfreq"
+            },
+            "serialState": 1,
+            "subscribeStatus": false,
+            "title": "对抗焦虑、守住本心秘密武器",
+            "tracks": 2898,
+            "type": 0,
+            "uid": 44190264
+        },
+        "itemType": "ALBUM"
+    }, {
+        "item": {
+            "albumId": 7822555,
+            "albumTitle": "励志美文",
+            "beenInListenList": false,
+            "category": "人文",
+            "categoryId": 39,
+            "commentsCounts": 9,
+            "coverPath": "http://imagev2.xmcdn.com/group27/M01/56/4A/wKgJW1j-yQKC1sndAABHvhKR4fI441.jpg!op_type=3&columns=290&rows=290",
+            "createdAt": 1495784193000,
+            "dislikeReasonNew": {
+                "default": [{
+                    "codeType": "DEFAULT",
+                    "name": "不感兴趣"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "听过了"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "内容质量差"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "不喜欢主播"
+                }],
+                "traits": [{
+                    "codeType": "CATEGORY",
+                    "name": "人文"
+                }, {
+                    "codeType": "TAGS",
+                    "name": "哲理"
+                }, {
+                    "codeType": "TAGS",
+                    "name": "段子"
+                }, {
+                    "codeType": "TAGS",
+                    "name": "故事"
+                }]
+            },
+            "dislikeReasons": [{
+                "name": "不感兴趣",
+                "value": "DEFAULT"
+            }, {
+                "name": "听过了",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢主播",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢:哲理",
+                "value": "TAGS"
+            }, {
+                "name": "不喜欢:段子",
+                "value": "TAGS"
+            }],
+            "duration": 251,
+            "isFree": false,
+            "isPaid": false,
+            "isVideo": false,
+            "nickname": "爱上早读",
+            "paidType": 0,
+            "playPathAacv164": "http://aod.cos.tx.xmcdn.com/group28/M08/5F/6E/wKgJXFkn2vTxl-IyAB8OZ0e9Ruk614.m4a",
+            "playPathAacv224": "http://aod.cos.tx.xmcdn.com/group28/M08/5F/6D/wKgJXFkn2vOTvqvGAAviIOHrBoU759.m4a",
+            "playsCounts": 27536,
+            "recInfo": {
+                "recReason": "人文 | 哲理",
+                "recReasonType": "TAG",
+                "recSrc": "SCTR.FTND17.CV",
+                "recTrack": "FD.R.1251.itfreq"
+            },
+            "title": "别以为是色情，其实是哲理",
+            "trackId": 39003052,
+            "uid": 79688476
+        },
+        "itemType": "TRACK"
+    }, {
+        "item": {
+            "list": [{
+                "album": {
+                    "ageLevel": 1,
+                    "canBeCopy": 0,
+                    "canInviteListen": false,
+                    "canShareAndStealListen": false,
+                    "categoryId": 2,
+                    "contractStatus": 0,
+                    "coverPath": "http://fdfs.xmcdn.com/group12/M05/F7/B8/wKgDW1au6IyyoB_oAAM4FpahUB8763.jpg",
+                    "createdAt": 1453899213000,
+                    "customCover": "",
+                    "customTitle": "治愈系舒缓音乐",
+                    "digStatus": 1,
+                    "digTags": "",
+                    "editorTitle": "治愈系舒缓音乐",
+                    "firstTrackId": 12001693,
+                    "firstTrackTitle": "An Ancient Tale - Margot Reisinger",
+                    "firstUptrackAt": 1454256785000,
+                    "freeToPaidStatus": 0,
+                    "id": 3627097,
+                    "intro": "在世界的不同角落 我和你 共同听一支曲 ~【官方福利区】 发现你最近经常听轻音乐、纯音乐猜你喜欢喜马精选专辑《五感音乐疗愈|调节情绪 快乐生活 平衡身心 摆脱焦虑》（点击即可收听）缓解焦虑，帮助数百万听友入眠",
+                    "introLength": 98,
+                    "isCrawler": false,
+                    "isDefault": false,
+                    "isDeleted": false,
+                    "isDraft": false,
+                    "isExclusive": false,
+                    "isFinished": 1,
+                    "isPaid": false,
+                    "isPublic": true,
+                    "isRecordsDesc": true,
+                    "isSample": false,
+                    "isVedio": 0,
+                    "isVipFirst": 0,
+                    "lastUptrackAt": 1559294220000,
+                    "lastUptrackCoverPath": "http://fdfs.xmcdn.com/group60/M07/45/B0/wKgLb1zw6eeB88fvAAGTbqDRmEA142.jpg",
+                    "lastUptrackId": 187841955,
+                    "lastUptrackTitle": "Take me to your planet",
+                    "listItemsRelationship": 0,
+                    "metadataList": [{
+                        "displayName": "标准节目名",
+                        "metadataId": 140,
+                        "metadataName": "标准节目名",
+                        "metadataValueList": [{
+                            "metadataValue": "治愈系舒缓音乐"
+                        }]
+                    }, {
+                        "displayName": "节目类别",
+                        "metadataId": 8,
+                        "metadataName": "类别",
+                        "metadataValueList": [{
+                            "displayValue": "歌单",
+                            "metadataValue": "歌单",
+                            "metadataValueId": 41
+                        }]
+                    }, {
+                        "displayName": "歌单类型",
+                        "metadataId": 69,
+                        "metadataName": "歌单类型",
+                        "metadataValueList": [{
+                            "displayValue": "精选集",
+                            "metadataValue": "精选集",
+                            "metadataValueId": 1075
+                        }]
+                    }, {
+                        "displayName": "歌单主题",
+                        "metadataId": 127,
+                        "metadataName": "歌单主题",
+                        "metadataValueList": [{
+                            "displayValue": "治愈系",
+                            "metadataValue": "治愈系",
+                            "metadataValueId": 2018
+                        }, {
+                            "displayValue": "纯音乐",
+                            "metadataValue": "纯音乐",
+                            "metadataValueId": 2015
+                        }]
+                    }, {
+                        "displayName": "风格",
+                        "metadataId": 14,
+                        "metadataName": "风格",
+                        "metadataValueList": [{
+                            "displayValue": "轻音乐",
+                            "metadataValue": "轻音乐",
+                            "metadataValueId": 145
+                        }]
+                    }, {
+                        "displayName": "场景",
+                        "metadataId": 15,
+                        "metadataName": "场景",
+                        "metadataValueList": [{
+                            "metadataValue": "催眠"
+                        }, {
+                            "metadataValue": "放松"
+                        }, {
+                            "displayValue": "御宅",
+                            "metadataValue": "御宅",
+                            "metadataValueId": 846
+                        }, {
+                            "displayValue": "睡前",
+                            "metadataValue": "睡前",
+                            "metadataValueId": 151
+                        }]
+                    }, {
+                        "displayName": "人群",
+                        "metadataId": 6,
+                        "metadataName": "人群",
+                        "metadataValueList": [{
+                            "metadataValue": "文艺青年"
+                        }, {
+                            "displayValue": "文青",
+                            "metadataValue": "文青",
+                            "metadataValueId": 960
+                        }]
+                    }, {
+                        "displayName": "声临其境",
+                        "metadataId": 273,
+                        "metadataName": "声临其境",
+                        "metadataValueList": [{
+                            "displayValue": "总榜",
+                            "metadataValue": "总榜",
+                            "metadataValueId": 4394
+                        }]
+                    }],
+                    "musicCategory": "音乐节目",
+                    "musicRelated": 1,
+                    "offlineReason": "0",
+                    "offlineType": 0,
+                    "opType": 1,
+                    "originalStatus": 0,
+                    "preferredType": 0,
+                    "recommendReason": "心情|在世界的不同角落，听同样的治愈",
+                    "recordPicList": "",
+                    "refundSupportType": 0,
+                    "richIntro": "<p data-flag=\"normal\" style=\"font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;color:#333333;word-break:break-all;font-weight:normal;\">在世界的不同角落 我和你 共同听一支曲 ~</p><p data-flag=\"normal\" lang=\"en\" style=\"hyphens:auto;line-height:30px;font-family:Helvetica, Arial, sans-serif;\"><span data-flag=\"tag\" style=\"padding:5px;margin:10px 0px;color:rgb(255, 255, 255);background:rgb(252, 88, 50);display:inline-block;\">【官方福利区】</span> </p><p data-flag=\"normal\" lang=\"en\" style=\"hyphens:auto;line-height:30px;font-family:Helvetica, Arial, sans-serif;\">发现你最近经常听轻音乐、纯音乐</p><span><br /></span><p data-flag=\"normal\" lang=\"en\" style=\"hyphens:auto;line-height:30px;font-family:Helvetica, Arial, sans-serif;\">猜你喜欢喜马精选专辑<span data-flag=\"strong\" style=\"color:rgb(252, 88, 50);word-break:break-all;\"><a href=\"https://www.ximalaya.com/yinyue/37128176/\" style=\"color:#4990E2;text-decoration:none;\">《五感音乐疗愈|调节情绪 快乐生活 平衡身心 摆脱焦虑》</a></span></p><p data-flag=\"normal\" lang=\"en\" style=\"hyphens:auto;line-height:30px;font-family:Helvetica, Arial, sans-serif;\">（点击即可收听）</p><p data-flag=\"normal\" lang=\"en\" style=\"hyphens:auto;line-height:30px;font-family:Helvetica, Arial, sans-serif;\">缓解焦虑，帮助数百万听友入眠</p><span><br /></span><span><br /></span>",
+                    "saleScope": 0,
+                    "searchStatus": 0,
+                    "selectionsType": 0,
+                    "shortIntro": "在世界的不同角落 我和你 共同听一支曲 ~【官方福利区】 发现你最近经常听轻音乐、纯音乐猜你喜欢喜马精选专辑《五感音乐疗愈|调节情绪 快乐生活 平衡身心 摆脱焦虑》（点击即可收听）缓解焦虑，",
+                    "status": 1,
+                    "tags": "精选|歌单,睡前.催眠,佛教|禅音,|纯音乐|,孤单.伤感",
+                    "title": "治愈系放空舒缓音乐",
+                    "trackCover": "group15/M01/F6/DD/wKgDaFau6KOB_3wwAAM4FpahUB8952.jpg",
+                    "trackCoverHeight": 180,
+                    "trackPaidType": 0,
+                    "type": 0,
+                    "uid": 27263450,
+                    "updatedAt": 1599322291000,
+                    "uploadSource": 0,
+                    "userSource": 1,
+                    "wrapInfo": {
+                        "coverPath": "group61/M08/60/55/wKgMZl0IsmSQpfXTAAcFa5XWcAI656.jpg",
+                        "isWrap": true,
+                        "subtitle": ""
+                    }
+                },
+                "liveRecord": {},
+                "recommendedInfo": {
+                    "contentType": "ALBUM",
+                    "id": 3627097,
+                    "reasonContent": "",
+                    "reasonType": "FEATURE",
+                    "recSrc": "HSTR",
+                    "recTrack": "11.Hcnzj2_root.1936",
+                    "score": 3.993300199508667
+                },
+                "type": "ALBUM"
+            }],
+            "moduleType": "recentListen",
+            "title": "猜你在追"
+        },
+        "itemType": "RECENT_LISTEN"
+    }, {
+        "item": {
+            "adInfo": {
+                "adId": 855855,
+                "adType": 0,
+                "categoryId": -1,
+                "clickTokens": ["DfVXcku4nZni9o0ICgoFcRbiyf6SaYIvcVp/Pf184ow=", "lyyX1FEmQav3S1B7+3Uvi9hCs31Ysd+YUGPCBjvo68s=", "wBwIphJfiXYWlTnKAp1sOfJnu3KeuXywjIgQkXq+9U4="],
+                "clickType": 1,
+                "cover": "",
+                "description": "",
+                "keywordIds": [-1],
+                "link": "http://ad.ximalaya.com/adrecord?sdn=H4sIAAAAAAAAAKtWykhNTEktUrLKK83J0VFKzs_PzkyF8QoSixJzU0tSi4qVrKqVElM8S1JzPVOUrJQsTE2BSKm2FgClc6L6QAAAAA&ad=855855&xmly=uiwebview&rec_src=anchorBidHrfyV44&rec_track=r.20000&cpcPrice=rWGO%2FYym8XFsazCqnCCTFA%3D%3D",
+                "openlinkType": 0,
+                "order": 11,
+                "paid": false,
+                "positionName": "home_recommend_for_you",
+                "promoteAlbumId": 18740156,
+                "promoteId": 18740156,
+                "promoteTrackId": 281894650,
+                "promoteType": "TRACK",
+                "realLink": "iting://open?msg_type=11&track_id=281894650",
+                "recSrc": "anchorBidHrfyV44",
+                "recTrack": "r.20000",
+                "responseId": 4118834993361,
+                "shareFlag": false,
+                "showTokens": [],
+                "subcategoryId": -1,
+                "thirdClickStatUrls": [],
+                "thirdShowStatUrls": [],
+                "thirdStatUrl": ""
+            },
+            "albumId": 18740156,
+            "albumTitle": "商业模式 | 创业实用案例",
+            "beenInListenList": false,
+            "category": "个人成长",
+            "categoryId": 13,
+            "commentsCounts": 2,
+            "coverPath": "http://imagev2.xmcdn.com/group54/M04/D8/31/wKgLclwUdK_BHLD3AAEgaUls2j0818.jpg!op_type=3&columns=290&rows=290",
+            "createdAt": 1586653214000,
+            "dislikeReasonNew": {
+                "default": [{
+                    "codeType": "DEFAULT",
+                    "name": "不感兴趣"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "听过了"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "内容质量差"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "不喜欢主播"
+                }],
+                "traits": [{
+                    "codeType": "CATEGORY",
+                    "name": "教育培训"
+                }, {
+                    "codeType": "TAGS",
+                    "name": "王顺杰"
+                }, {
+                    "codeType": "TAGS",
+                    "name": "营销"
+                }, {
+                    "codeType": "TAGS",
+                    "name": "赚钱干货"
+                }, {
+                    "codeType": "TAGS",
+                    "name": "创业"
+                }]
+            },
+            "dislikeReasons": [{
+                "name": "不感兴趣",
+                "value": "DEFAULT"
+            }, {
+                "name": "听过了",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢主播",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢:王顺杰",
+                "value": "TAGS"
+            }, {
+                "name": "不喜欢:营销",
+                "value": "TAGS"
+            }],
+            "duration": 390,
+            "isFree": false,
+            "isPaid": false,
+            "isVideo": false,
+            "nickname": "商业模式风向标",
+            "paidType": 0,
+            "playPathAacv164": "http://aod.cos.tx.xmcdn.com/group78/M03/88/97/wKgO4F6SaC-ReuV4ADDEJ_jfZhw137.m4a",
+            "playPathAacv224": "http://aod.cos.tx.xmcdn.com/group77/M03/9F/1A/wKgO1V6SaIOxfz7kABL76nEnyLA177.m4a",
+            "playsCounts": 1152585,
+            "recInfo": {
+                "recReason": "个人成长 | 王顺杰",
+                "recReasonType": "TAG"
+            },
+            "title": "落地案例：免费吃火锅，新开火锅店请你免费吃10天，背后的套路是什么？",
+            "trackId": 281894650,
+            "uid": 132563976
+        },
+        "itemType": "TRACK"
+    }, {
+        "item": {
+            "albumId": 25255604,
+            "albumScore": 9.1,
+            "category": "娱乐",
+            "categoryId": 4,
+            "contractStatus": 0,
+            "coverPath": "http://imagev2.xmcdn.com/group61/M02/98/21/wKgMcF0x4BDg53F6AAEsB9MAm20208.jpg!op_type=5&upload_type=album&device_type=ios&name=large&magick=png",
+            "dislikeReasonNew": {
+                "default": [{
+                    "codeType": "DEFAULT",
+                    "name": "不感兴趣"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "听过了"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "内容质量差"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "不喜欢主播"
+                }],
+                "traits": [{
+                    "codeType": "CATEGORY",
+                    "name": "娱乐"
+                }]
+            },
+            "dislikeReasons": [{
+                "name": "不感兴趣",
+                "value": "DEFAULT"
+            }, {
+                "name": "听过了",
+                "value": "DEFAULT"
+            }, {
+                "name": "内容质量差",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢主播",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢:娱乐",
+                "value": "CATEGORY"
+            }],
+            "firstTrackId": 206829894,
+            "firstTrackTitle": "【老王说奇案】国内外各种残暴悬疑案件",
+            "intro": "【老王说奇案】国内外各种残暴悬疑案件",
+            "isPaid": false,
+            "isSampleAlbumTimeLimited": false,
+            "lastUptrackAt": 1566468241000,
+            "lastUptrackTitle": "20【老王】5分钟带你了解《东北特大杀人案件》始末！1年连杀42人！",
+            "nickname": "小蓬莱鬼话",
+            "playsCounts": 2031461,
+            "preferredType": 0,
+            "recInfo": {
+                "recReason": "娱乐 | 纪实",
+                "recReasonType": "TAG",
+                "recSrc": "ABM_UCFJ5HB.DeepFM~231V5.CV",
+                "recTrack": "FD.AMRA.1241.itfreq"
+            },
+            "serialState": 1,
+            "subscribeStatus": false,
+            "title": "老王说奇案",
+            "tracks": 22,
+            "type": 0,
+            "uid": 180695062
+        },
+        "itemType": "ALBUM"
+    }, {
+        "item": {
+            "albumId": 2993623,
+            "albumScore": 9.5,
+            "category": "人文",
+            "categoryId": 39,
+            "contractStatus": 0,
+            "coverPath": "http://imagev2.xmcdn.com/group61/M02/60/8A/wKgMZl0Is5OAlVx-AAUVDPWU5XM426.png!op_type=5&upload_type=album&device_type=ios&name=large&magick=png",
+            "dislikeReasonNew": {
+                "default": [{
+                    "codeType": "DEFAULT",
+                    "name": "不感兴趣"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "听过了"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "内容质量差"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "不喜欢主播"
+                }],
+                "traits": [{
+                    "codeType": "CATEGORY",
+                    "name": "人文"
+                }, {
+                    "codeType": "FLATCATEGORY",
+                    "name": "国学名著"
+                }]
+            },
+            "dislikeReasons": [{
+                "name": "不感兴趣",
+                "value": "DEFAULT"
+            }, {
+                "name": "听过了",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢主播",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢:人文",
+                "value": "CATEGORY"
+            }, {
+                "name": "不喜欢:国学名著",
+                "value": "FLATCATEGORY"
+            }],
+            "firstTrackId": 8908842,
+            "firstTrackTitle": "中国人老祖宗留给我们的智慧",
+            "intro": "中国人老祖宗留给我们的智慧",
+            "isPaid": false,
+            "isSampleAlbumTimeLimited": false,
+            "lastUptrackAt": 1465456785000,
+            "lastUptrackTitle": "德经 第81章 信言不美-智慧案例",
+            "nickname": "晓声_mreading",
+            "playsCounts": 253511895,
+            "preferredType": 0,
+            "recInfo": {
+                "recReason": "NO.11 人文 热播榜",
+                "recReasonType": "RECSYS",
+                "recSrc": "ABM_UCFJ5HB.DeepFM~231V5.CV",
+                "recTrack": "FD.AMRA.1241.itfreq"
+            },
+            "serialState": 1,
+            "subscribeStatus": false,
+            "title": "《道德经》【白话版】",
+            "tracks": 326,
+            "type": 0,
+            "uid": 12168896
+        },
+        "itemType": "ALBUM"
+    }, {
+        "item": {
+            "albumId": 11251978,
+            "albumTitle": "有书·名家散文",
+            "beenInListenList": false,
+            "category": "人文",
+            "categoryId": 39,
+            "commentsCounts": 38,
+            "coverPath": "http://imagev2.xmcdn.com/group40/M06/2E/D8/wKgJT1rOC_mz1A3QAADOieTrbgc854.png!op_type=3&columns=290&rows=290",
+            "createdAt": 1556888408000,
+            "dislikeReasonNew": {
+                "default": [{
+                    "codeType": "DEFAULT",
+                    "name": "不感兴趣"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "听过了"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "内容质量差"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "不喜欢主播"
+                }],
+                "traits": [{
+                    "codeType": "CATEGORY",
+                    "name": "人文"
+                }]
+            },
+            "dislikeReasons": [{
+                "name": "不感兴趣",
+                "value": "DEFAULT"
+            }, {
+                "name": "听过了",
+                "value": "DEFAULT"
+            }, {
+                "name": "内容质量差",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢主播",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢:人文",
+                "value": "CATEGORY"
+            }],
+            "duration": 607,
+            "intro": "在我四十岁以后，在我几十年里雄心勃勃所从事的事业、爱情遭受了挫折和失意，我才觉悟了做儿子的不是。\n母亲的伟大不仅生下血肉的儿子，还在于她并不指望儿子的回报，不管儿子离她多远又回来多近，她永远使儿子有亲情，有力量，有根有本。\n人生的车途上，母亲是加油站。\n母亲一生都在乡下，没有文化，不善说会道，飞机只望见过天上的影子。\n她并不清楚我在远远的城里干什么，惟一晓得的是我能写字，她说我写字的时候眼睛在不停",
+            "isFree": false,
+            "isPaid": false,
+            "isVideo": false,
+            "nickname": "有书",
+            "paidType": 0,
+            "playPathAacv164": "http://aod.cos.tx.xmcdn.com/group58/M06/28/31/wKgLglzHDOfDG08NAEse3cn35_o809.m4a",
+            "playPathAacv224": "http://aod.cos.tx.xmcdn.com/group58/M00/2A/3E/wKgLglzHIRmgRT2OABy6k-mhSBs512.m4a",
+            "playsCounts": 46902,
+            "recInfo": {
+                "recReason": "人文",
+                "recReasonType": "TAG",
+                "recSrc": "SCTR.FTND17.CV",
+                "recTrack": "FD.R.1251.itfreq"
+            },
+            "title": "贾平凹：命苦的母亲",
+            "trackId": 180911348,
+            "uid": 43829883
+        },
+        "itemType": "TRACK"
+    }, {
+        "item": {
+            "albumId": 29650316,
+            "albumScore": 9.1,
+            "category": "娱乐",
+            "categoryId": 4,
+            "contractStatus": 0,
+            "coverPath": "http://imagev2.xmcdn.com/group83/M00/36/C3/wKg5I18Tz5fCBeveAAInz_at-ns100.jpg!op_type=5&upload_type=album&device_type=ios&name=large&magick=png",
+            "dislikeReasonNew": {
+                "default": [{
+                    "codeType": "DEFAULT",
+                    "name": "不感兴趣"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "听过了"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "内容质量差"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "不喜欢主播"
+                }],
+                "traits": [{
+                    "codeType": "CATEGORY",
+                    "name": "娱乐"
+                }, {
+                    "codeType": "FLATCATEGORY",
+                    "name": "悬疑"
+                }]
+            },
+            "dislikeReasons": [{
+                "name": "不感兴趣",
+                "value": "DEFAULT"
+            }, {
+                "name": "听过了",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢主播",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢:娱乐",
+                "value": "CATEGORY"
+            }, {
+                "name": "不喜欢:悬疑",
+                "value": "FLATCATEGORY"
+            }],
+            "firstTrackId": 333923311,
+            "firstTrackTitle": "讲给爱鬼故事的人",
+            "intro": "讲给爱鬼故事的人",
+            "isPaid": false,
+            "isSampleAlbumTimeLimited": false,
+            "lastUptrackAt": 1599314637000,
+            "lastUptrackTitle": "小孩子能见鬼丨身上的人",
+            "nickname": "浪大仙_行人江山",
+            "playsCounts": 8819487,
+            "preferredType": 0,
+            "recInfo": {
+                "recReasonType": "RECSYS",
+                "recSrc": "ABM_UCFJ5HB.DeepFM~231V5.CV",
+                "recTrack": "FD.AMRA.1241.itfreq"
+            },
+            "serialState": 1,
+            "subscribeStatus": false,
+            "title": "浪大仙讲鬼故事",
+            "tracks": 83,
+            "type": 0,
+            "uid": 102843369
+        },
+        "itemType": "ALBUM"
+    }],
+    "isNewUser": false,
+    "profileId": 200025
+}

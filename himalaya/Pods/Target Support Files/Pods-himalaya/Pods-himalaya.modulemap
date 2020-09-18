@@ -1,0 +1,6 @@
+framework module Pods_himalaya {
+  umbrella header "Pods-himalaya-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,41 @@
+# Uncomment the next line to define a global platform for your project
+source ‘https://github.com/CocoaPods/Specs.git’
+platform :ios, '10.0'
+
+target 'himalaya' do
+inhibit_all_warnings!
+use_frameworks!
+
+# MARK: ---------SWIFT----------
+#pod 'Kingfisher', '~> 5.14.0'
+pod 'KingfisherWebP', '~> 0.7.0'
+pod 'SnapKit'
+pod 'Moya/RxSwift'
+pod 'ObjectMapper', '~> 4.2.0'
+pod 'RxCocoa'
+#pod 'CryptoSwift', '~> 1.3.1'
+#pod 'IQKeyboardManagerSwift', '~> 6.5.5'
+#pod 'FSPagerView', '~> 0.8.3'
+#pod 'DNSPageView', '~> 1.5.0'
+# MARK: ------------OC-------------
+pod 'MMKV', '~> 1.2.1'
+#pod 'JPush', '~> 3.3.3'
+pod 'MJRefresh', '~> 3.4.3'
+#pod 'TZImagePickerController', '~> 3.3.2'
+pod 'FreeStreamer', '~> 4.0.0'
+#pod 'YBImageBrowser/NOSD'
+#pod 'YBImageBrowser/VideoNOSD'
+pod 'IGListKit', '~> 4.0.0'
+pod 'YYText', '~> 1.0.7'
+
+#pod 'UMCCommon'
+pod 'YYCache'
+
+#pod 'LBXScan/LBXNative'
+#pod 'LBXScan/UI'
+
+#pod 'FLAnimatedImage', '~> 1.0'
+#pod 'SwiftTheme', '~> 0.5.2'
+#pod 'CHTCollectionViewWaterfallLayout', '~> 0.9.8'
+#pod 'YYText', '~> 1.0.7'
+end

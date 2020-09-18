@@ -1,0 +1,1027 @@
+{
+    "msg": "0",
+    "ret": 0,
+    "code": "43_310000_3100",
+    "offset": 210,
+    "bucketId": 200050,
+    "body": [{
+        "item": {
+            "albumId": 29966433,
+            "albumScore": 9.3,
+            "albumSubscript": "{\"albumSubscriptValue\":1}",
+            "category": "娱乐",
+            "categoryId": 4,
+            "contractStatus": 0,
+            "coverPath": "http://imagev2.xmcdn.com/group68/M03/48/8E/wKgMbl2sG57Ql3uJAAKVLhM0ybI418.jpg!op_type=5&upload_type=album&device_type=ios&name=large&magick=png",
+            "dislikeReasonNew": {
+                "default": [{
+                    "codeType": "DEFAULT",
+                    "name": "不感兴趣"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "听过了"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "内容质量差"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "不喜欢主播"
+                }],
+                "traits": [{
+                    "codeType": "CATEGORY",
+                    "name": "娱乐"
+                }, {
+                    "codeType": "FLATCATEGORY",
+                    "name": "悬疑"
+                }]
+            },
+            "dislikeReasons": [{
+                "name": "不感兴趣",
+                "value": "DEFAULT"
+            }, {
+                "name": "听过了",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢主播",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢:娱乐",
+                "value": "CATEGORY"
+            }, {
+                "name": "不喜欢:悬疑",
+                "value": "FLATCATEGORY"
+            }],
+            "firstTrackId": 334269597,
+            "firstTrackTitle": "精选短篇鬼故事 恐怖来袭",
+            "intro": "精选短篇鬼故事 恐怖来袭",
+            "isPaid": false,
+            "isSampleAlbumTimeLimited": false,
+            "lastUptrackAt": 1599410388000,
+            "lastUptrackTitle": "棺材铺3 狗血棺材",
+            "nickname": "东叔讲故事",
+            "playsCounts": 40723652,
+            "preferredType": 1,
+            "recInfo": {
+                "recReason": "NO.12 娱乐 热播榜",
+                "recReasonType": "RECSYS",
+                "recSrc": "ABM_UDRH.DeepFM~231V5.CV",
+                "recTrack": "FD.AMRA.1241.itfreq"
+            },
+            "serialState": 1,
+            "subscribeStatus": false,
+            "title": "午夜鬼故事｜胆小勿进",
+            "tracks": 164,
+            "type": 0,
+            "uid": 91193785
+        },
+        "itemType": "ALBUM"
+    }, {
+        "item": {
+            "albumId": 26789689,
+            "albumScore": 9.6,
+            "category": "人文",
+            "categoryId": 39,
+            "contractStatus": 0,
+            "coverPath": "http://imagev2.xmcdn.com/group67/M0A/0D/FD/wKgMd12oWsXDVeYrAAQlV6-N_QA525.jpg!op_type=5&upload_type=album&device_type=ios&name=large&magick=png",
+            "dislikeReasonNew": {
+                "default": [{
+                    "codeType": "DEFAULT",
+                    "name": "不感兴趣"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "听过了"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "内容质量差"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "不喜欢主播"
+                }],
+                "traits": [{
+                    "codeType": "CATEGORY",
+                    "name": "人文"
+                }]
+            },
+            "dislikeReasons": [{
+                "name": "不感兴趣",
+                "value": "DEFAULT"
+            }, {
+                "name": "听过了",
+                "value": "DEFAULT"
+            }, {
+                "name": "内容质量差",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢主播",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢:人文",
+                "value": "CATEGORY"
+            }],
+            "firstTrackId": 208094402,
+            "firstTrackTitle": "对话知识大咖，筛选最值得听的好内容",
+            "intro": "对话知识大咖，筛选最值得听的好内容",
+            "isPaid": false,
+            "isSampleAlbumTimeLimited": false,
+            "lastUptrackAt": 1598544067000,
+            "lastUptrackTitle": "收官特辑：你是别人的过客，也是自己的主人",
+            "nickname": "超级制作",
+            "playsCounts": 61298132,
+            "preferredType": 0,
+            "recInfo": {
+                "recReason": "NO.6 人文 口碑榜",
+                "recReasonType": "RECSYS",
+                "recSrc": "ABM_UCFJ5HB.DeepFM~231V5.CV",
+                "recTrack": "FD.AMRA.1241.itfreq"
+            },
+            "serialState": 1,
+            "subscribeStatus": false,
+            "title": "梁品",
+            "tracks": 134,
+            "type": 0,
+            "uid": 91044493
+        },
+        "itemType": "ALBUM"
+    }, {
+        "item": {
+            "albumId": 11549955,
+            "albumScore": 9.4,
+            "albumSubscript": "{\"albumSubscriptValue\":3}",
+            "category": "人文",
+            "categoryId": 39,
+            "contractStatus": 0,
+            "coverPath": "http://imagev2.xmcdn.com/group43/M01/1A/A6/wKgKjVsDtD_wslrzAAIplW4msU8881.png!op_type=5&upload_type=album&device_type=ios&name=large&magick=png",
+            "dislikeReasonNew": {
+                "default": [{
+                    "codeType": "DEFAULT",
+                    "name": "不感兴趣"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "听过了"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "内容质量差"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "不喜欢主播"
+                }],
+                "traits": [{
+                    "codeType": "CATEGORY",
+                    "name": "人文"
+                }, {
+                    "codeType": "FLATCATEGORY",
+                    "name": "国学经典"
+                }]
+            },
+            "dislikeReasons": [{
+                "name": "不感兴趣",
+                "value": "DEFAULT"
+            }, {
+                "name": "听过了",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢主播",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢:人文",
+                "value": "CATEGORY"
+            }, {
+                "name": "不喜欢:国学经典",
+                "value": "FLATCATEGORY"
+            }],
+            "firstTrackId": 335439436,
+            "firstTrackTitle": "每天一本好书精读，古今中外一网打尽",
+            "intro": "每天一本好书精读，古今中外一网打尽",
+            "isPaid": true,
+            "isSampleAlbumTimeLimited": false,
+            "isVipFree": true,
+            "lastUptrackAt": 1599746413000,
+            "lastUptrackTitle": "心理丨《赞扬与责备》：我们为何看重别人的评价？剑桥心理学家揭开赞扬与责备的秘密",
+            "nickname": "喜马讲书",
+            "playsCounts": 120774536,
+            "preferredType": 1,
+            "priceTypeEnum": 2,
+            "recInfo": {
+                "recReason": "NO.7 人文 热播榜",
+                "recReasonType": "RECSYS",
+                "recSrc": "ABM_PCF6.DeepFM~231V5.CV",
+                "recTrack": "FD.PABMR.G.1221.itfreq"
+            },
+            "sampleAlbumExpireTime": 0,
+            "serialState": 1,
+            "subscribeStatus": false,
+            "title": "天天听好书",
+            "tracks": 1165,
+            "type": 0,
+            "uid": 95528803,
+            "vipFreeType": 0
+        },
+        "itemType": "ALBUM"
+    }, {
+        "item": {
+            "moduleType": "ad",
+            "title": "广告2"
+        },
+        "itemType": "MODULE"
+    }, {
+        "item": {
+            "albumId": 29535750,
+            "albumScore": 9.2,
+            "category": "娱乐",
+            "categoryId": 4,
+            "contractStatus": 0,
+            "coverPath": "http://imagev2.xmcdn.com/group69/M08/B2/E5/wKgMeV3glSTQPNMdACyt1_k_lDI813.jpg!op_type=5&upload_type=album&device_type=ios&name=large&magick=png",
+            "dislikeReasonNew": {
+                "default": [{
+                    "codeType": "DEFAULT",
+                    "name": "不感兴趣"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "听过了"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "内容质量差"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "不喜欢主播"
+                }],
+                "traits": [{
+                    "codeType": "CATEGORY",
+                    "name": "娱乐"
+                }, {
+                    "codeType": "FLATCATEGORY",
+                    "name": "悬疑"
+                }]
+            },
+            "dislikeReasons": [{
+                "name": "不感兴趣",
+                "value": "DEFAULT"
+            }, {
+                "name": "听过了",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢主播",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢:娱乐",
+                "value": "CATEGORY"
+            }, {
+                "name": "不喜欢:悬疑",
+                "value": "FLATCATEGORY"
+            }],
+            "firstTrackId": 335546600,
+            "firstTrackTitle": "民间鬼故事",
+            "intro": "民间鬼故事",
+            "isPaid": false,
+            "isSampleAlbumTimeLimited": false,
+            "lastUptrackAt": 1599796846000,
+            "lastUptrackTitle": "听友诡事|走廊里的黑影",
+            "nickname": "阿浩说事儿",
+            "playsCounts": 130643680,
+            "preferredType": 0,
+            "recInfo": {
+                "recReason": "NO.4 娱乐 热播榜",
+                "recReasonType": "RECSYS",
+                "recSrc": "ABMColdWD.DeepFM~231V5.CV",
+                "recTrack": "FD.AMRA.1241.itfreq"
+            },
+            "serialState": 1,
+            "subscribeStatus": false,
+            "title": "民间鬼故事",
+            "tracks": 321,
+            "type": 0,
+            "uid": 114342044
+        },
+        "itemType": "ALBUM"
+    }, {
+        "item": {
+            "adInfo": {
+                "adId": 855848,
+                "adType": 0,
+                "categoryId": -1,
+                "clickTokens": ["kV6d9+jrmDRacUE6NG7u2OUc/BUL/j8fyhY8GbmDexk=", "EQgm73/ZAmAEqD/q+1ozEq0h74mKKZ1OXbNEvt57zQA=", "tBnWtd+M7IElT0K38p86LPCqnnJNC/wWqKGNXcg8o2M="],
+                "clickType": 1,
+                "cover": "",
+                "description": "",
+                "keywordIds": [-1],
+                "link": "http://ad.ximalaya.com/adrecord?sdn=H4sIAAAAAAAAAKtWykhNTEktUrLKK83J0VFKzs_PzkyF8QoSixJzU0tSi4qVrKqVElM8S1JzPVOUrJQsTE0tTCyUamsByIKoNUAAAAA&ad=855848&xmly=uiwebview&rec_src=anchorBidHrfyV44&rec_track=r.20000&cpcPrice=thJe1lGvhy3QHybegiu4ZA%3D%3D",
+                "openlinkType": 0,
+                "order": 6,
+                "paid": false,
+                "positionName": "home_recommend_for_you",
+                "promoteAlbumId": 18740156,
+                "promoteId": 18740156,
+                "promoteTrackId": 283629455,
+                "promoteType": "TRACK",
+                "realLink": "iting://open?msg_type=11&track_id=283629455",
+                "recSrc": "anchorBidHrfyV44",
+                "recTrack": "r.20000",
+                "responseId": 4118833613942,
+                "shareFlag": false,
+                "showTokens": [],
+                "subcategoryId": -1,
+                "thirdClickStatUrls": [],
+                "thirdShowStatUrls": [],
+                "thirdStatUrl": ""
+            },
+            "albumId": 18740156,
+            "albumTitle": "商业模式 | 创业实用案例",
+            "beenInListenList": false,
+            "category": "个人成长",
+            "categoryId": 13,
+            "commentsCounts": 0,
+            "coverPath": "http://imagev2.xmcdn.com/group54/M04/D8/31/wKgLclwUdK_BHLD3AAEgaUls2j0818.jpg!op_type=3&columns=290&rows=290",
+            "createdAt": 1586952050000,
+            "dislikeReasonNew": {
+                "default": [{
+                    "codeType": "DEFAULT",
+                    "name": "不感兴趣"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "听过了"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "内容质量差"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "不喜欢主播"
+                }],
+                "traits": [{
+                    "codeType": "CATEGORY",
+                    "name": "教育培训"
+                }, {
+                    "codeType": "TAGS",
+                    "name": "商业模式"
+                }, {
+                    "codeType": "TAGS",
+                    "name": "创业"
+                }, {
+                    "codeType": "TAGS",
+                    "name": "营销"
+                }, {
+                    "codeType": "TAGS",
+                    "name": "赚钱干货"
+                }]
+            },
+            "dislikeReasons": [{
+                "name": "不感兴趣",
+                "value": "DEFAULT"
+            }, {
+                "name": "听过了",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢主播",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢:商业模式",
+                "value": "TAGS"
+            }, {
+                "name": "不喜欢:创业",
+                "value": "TAGS"
+            }],
+            "duration": 776,
+            "isFree": false,
+            "isPaid": false,
+            "isVideo": false,
+            "nickname": "商业模式风向标",
+            "paidType": 0,
+            "playPathAacv164": "http://aod.cos.tx.xmcdn.com/group75/M02/E0/0F/wKgO016W98DTCHWkAGD2bD4hqKc384.m4a",
+            "playPathAacv224": "http://aod.cos.tx.xmcdn.com/group75/M01/E0/2E/wKgO016W-Q-wBbZRACW5A57EwLU331.m4a",
+            "playsCounts": 1073504,
+            "recInfo": {
+                "recReason": "个人成长 | 商业模式",
+                "recReasonType": "TAG"
+            },
+            "title": "落地案例：卖包子重资产饭店如何转型为轻资产单品，年收入1个亿",
+            "trackId": 283629455,
+            "uid": 132563976
+        },
+        "itemType": "TRACK"
+    }, {
+        "item": {
+            "albumId": 31270257,
+            "albumScore": 9.5,
+            "category": "娱乐",
+            "categoryId": 4,
+            "contractStatus": 0,
+            "coverPath": "http://imagev2.xmcdn.com/group68/M04/4F/78/wKgMbl3bI4XR4sDBAAtb2OrtAtU256.jpg!op_type=5&upload_type=album&device_type=ios&name=large&magick=png",
+            "dislikeReasonNew": {
+                "default": [{
+                    "codeType": "DEFAULT",
+                    "name": "不感兴趣"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "听过了"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "内容质量差"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "不喜欢主播"
+                }],
+                "traits": [{
+                    "codeType": "CATEGORY",
+                    "name": "娱乐"
+                }]
+            },
+            "dislikeReasons": [{
+                "name": "不感兴趣",
+                "value": "DEFAULT"
+            }, {
+                "name": "听过了",
+                "value": "DEFAULT"
+            }, {
+                "name": "内容质量差",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢主播",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢:娱乐",
+                "value": "CATEGORY"
+            }],
+            "firstTrackId": 231842291,
+            "firstTrackTitle": "悬疑推理惊悚灵异鬼故事",
+            "intro": "悬疑推理惊悚灵异鬼故事",
+            "isPaid": false,
+            "isSampleAlbumTimeLimited": false,
+            "lastUptrackAt": 1597931176000,
+            "lastUptrackTitle": "废弃的水塘｜午夜拍案惊奇",
+            "nickname": "废柴大叔讲故事",
+            "playsCounts": 11484521,
+            "preferredType": 0,
+            "recInfo": {
+                "recReasonType": "RECSYS",
+                "recSrc": "ABM_UDRH.DeepFM~231V5.CV",
+                "recTrack": "FD.AMRA.1241.itfreq"
+            },
+            "serialState": 1,
+            "subscribeStatus": false,
+            "title": "午夜拍案惊奇｜悬疑大案惊悚灵异鬼故事",
+            "tracks": 206,
+            "type": 0,
+            "uid": 28342376
+        },
+        "itemType": "ALBUM"
+    }, {
+        "item": {
+            "albumId": 26565248,
+            "albumScore": 9.2,
+            "category": "娱乐",
+            "categoryId": 4,
+            "contractStatus": 0,
+            "coverPath": "http://imagev2.xmcdn.com/group69/M00/44/BD/wKgMb13ofUnThdVtAADCqcoNdzI301.jpg!op_type=5&upload_type=album&device_type=ios&name=large&magick=png",
+            "dislikeReasonNew": {
+                "default": [{
+                    "codeType": "DEFAULT",
+                    "name": "不感兴趣"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "听过了"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "内容质量差"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "不喜欢主播"
+                }],
+                "traits": [{
+                    "codeType": "CATEGORY",
+                    "name": "娱乐"
+                }]
+            },
+            "dislikeReasons": [{
+                "name": "不感兴趣",
+                "value": "DEFAULT"
+            }, {
+                "name": "听过了",
+                "value": "DEFAULT"
+            }, {
+                "name": "内容质量差",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢主播",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢:娱乐",
+                "value": "CATEGORY"
+            }],
+            "firstTrackId": 335553403,
+            "firstTrackTitle": "往生阵（下）校园诡事",
+            "intro": "恐怖的味道？惊悚的味道？刺激的味道？还有你想像不到的味道。",
+            "isPaid": false,
+            "isSampleAlbumTimeLimited": false,
+            "lastUptrackAt": 1599799207000,
+            "lastUptrackTitle": "往生阵（下）校园诡事",
+            "nickname": "凯小厨的有声餐厅",
+            "playsCounts": 21113669,
+            "preferredType": 0,
+            "recInfo": {
+                "recReasonType": "RECSYS",
+                "recSrc": "ABM_UDRH.DeepFM~231V5.CV",
+                "recTrack": "FD.AMRA.1241.itfreq"
+            },
+            "serialState": 1,
+            "subscribeStatus": false,
+            "title": "恐怖餐厅|鬼故事",
+            "tracks": 390,
+            "type": 0,
+            "uid": 131184777
+        },
+        "itemType": "ALBUM"
+    }, {
+        "item": {
+            "albumId": 292123,
+            "albumScore": 9.6,
+            "category": "人文",
+            "categoryId": 39,
+            "contractStatus": 0,
+            "coverPath": "http://imagev2.xmcdn.com/group84/M08/66/1B/wKg5JF8X-7HTJbfqAAOU-XZ8TFI098.jpg!op_type=5&upload_type=album&device_type=ios&name=large&magick=png",
+            "dislikeReasonNew": {
+                "default": [{
+                    "codeType": "DEFAULT",
+                    "name": "不感兴趣"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "听过了"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "内容质量差"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "不喜欢主播"
+                }],
+                "traits": [{
+                    "codeType": "CATEGORY",
+                    "name": "人文"
+                }, {
+                    "codeType": "FLATCATEGORY",
+                    "name": "启蒙"
+                }]
+            },
+            "dislikeReasons": [{
+                "name": "不感兴趣",
+                "value": "DEFAULT"
+            }, {
+                "name": "听过了",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢主播",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢:人文",
+                "value": "CATEGORY"
+            }, {
+                "name": "不喜欢:启蒙",
+                "value": "FLATCATEGORY"
+            }],
+            "firstTrackId": 335021086,
+            "firstTrackTitle": "你听到的其实是自己的故事",
+            "intro": "你听到的其实是自己的故事",
+            "isPaid": false,
+            "isSampleAlbumTimeLimited": false,
+            "lastUptrackAt": 1599644300000,
+            "lastUptrackTitle": "小丑",
+            "nickname": "静播频道",
+            "playsCounts": 226831758,
+            "preferredType": 0,
+            "recInfo": {
+                "recReason": "NO.20 人文 热播榜",
+                "recReasonType": "RECSYS",
+                "recSrc": "ABM_UCFJ5HB.DeepFM~231V5.CV",
+                "recTrack": "FD.AMRA.1241.itfreq"
+            },
+            "serialState": 1,
+            "subscribeStatus": false,
+            "title": "静读美文",
+            "tracks": 753,
+            "type": 0,
+            "uid": 12512006
+        },
+        "itemType": "ALBUM"
+    }, {
+        "item": {
+            "categoryId": 2,
+            "contentType": 2,
+            "count": 13,
+            "coverPathBig": "http://imagev2.xmcdn.com/group84/M02/DE/D5/wKg5JF9SGdCA0HYOAALixob5rZY862.jpg!op_type=4&upload_type=cover&device_type=ios&name=large_pop",
+            "coverPathSmall": "http://fdfs.xmcdn.com/group86/M08/C1/5B/wKg5Jl9Pb8XQ96vRAAHvqvtRg0s107.jpg",
+            "dislikeReasonNew": {
+                "default": [{
+                    "codeType": "DEFAULT",
+                    "name": "不感兴趣"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "听过了"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "内容质量差"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "不喜欢主播"
+                }],
+                "traits": []
+            },
+            "dislikeReasons": [{
+                "name": "不感兴趣",
+                "value": "DEFAULT"
+            }, {
+                "name": "听过了",
+                "value": "DEFAULT"
+            }, {
+                "name": "内容质量差",
+                "value": "DEFAULT"
+            }],
+            "footnote": "13首声音",
+            "isHot": false,
+            "isPaid": false,
+            "materialType": "special",
+            "recInfo": {
+                "recReason": "",
+                "recReasonType": "RECSYS",
+                "recSrc": "TDR",
+                "recTrack": "FD.TDR.1222"
+            },
+            "releasedAt": 1599216636000,
+            "specialId": 8994,
+            "subtitle": "用音乐治愈生活，最棒的纯乐都在这里！",
+            "title": "喜乐计划 | 海选进行时，优质纯乐一次听个够！",
+            "uid": 1012355,
+            "updateAt": 1599546277000,
+            "viewCount": 15869
+        },
+        "itemType": "SPECIAL"
+    }, {
+        "item": {
+            "adInfo": {
+                "adId": 468114,
+                "adType": 0,
+                "categoryId": -1,
+                "clickTokens": ["xF5Yi+otYSDimMlKZswNWrGym+zCkoM3w2vM/Nnw9bc=", "DOvRKtHZx+tfmM6ST9IKPRjb+CQYE+0BDQN4ohNbIRM=", "E4/okhJ0m2BRcm/DqC9MJyOc4IqfMIaF5xrBiwpyLDc="],
+                "clickType": 1,
+                "cover": "",
+                "description": "",
+                "keywordIds": [-1],
+                "link": "http://ad.ximalaya.com/adrecord?sdn=H4sIAAAAAAAAAKtWykhNTEktUrLKK83J0VFKzs_PzkyF8QoSixJzU0tSi4qVrKqVElM8S1JzPVOUrJRMzCwMDU2UamsB_3b9mUAAAAA&ad=468114&xmly=uiwebview&rec_src=anchorBidHrfyV44&rec_track=r.20000&cpcPrice=QNGCuMkSG6gmnfzB5ddFag%3D%3D",
+                "openlinkType": 0,
+                "order": 11,
+                "paid": false,
+                "positionName": "home_recommend_for_you",
+                "promoteAlbumId": 6598990,
+                "promoteId": 6598990,
+                "promoteTrackId": 29753833,
+                "promoteType": "TRACK",
+                "realLink": "iting://open?msg_type=11&track_id=29753833",
+                "recSrc": "anchorBidHrfyV44",
+                "recTrack": "r.20000",
+                "responseId": 4118833613942,
+                "shareFlag": false,
+                "showTokens": [],
+                "subcategoryId": -1,
+                "thirdClickStatUrls": [],
+                "thirdShowStatUrls": [],
+                "thirdStatUrl": ""
+            },
+            "albumId": 6598990,
+            "albumTitle": "【每天5分钟】轻松牢记8000单词",
+            "beenInListenList": false,
+            "category": "外语",
+            "categoryId": 5,
+            "commentsCounts": 369,
+            "coverPath": "http://imagev2.xmcdn.com/group61/M01/BC/9C/wKgMcF0WDVmyo4caAAAi_1smrYY927.gif!op_type=3&columns=290&rows=290",
+            "createdAt": 1486028277000,
+            "dislikeReasonNew": {
+                "default": [{
+                    "codeType": "DEFAULT",
+                    "name": "不感兴趣"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "听过了"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "内容质量差"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "不喜欢主播"
+                }],
+                "traits": [{
+                    "codeType": "CATEGORY",
+                    "name": "外语"
+                }]
+            },
+            "dislikeReasons": [{
+                "name": "不感兴趣",
+                "value": "DEFAULT"
+            }, {
+                "name": "听过了",
+                "value": "DEFAULT"
+            }, {
+                "name": "内容质量差",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢主播",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢:外语",
+                "value": "CATEGORY"
+            }],
+            "duration": 577,
+            "intro": "》》》》》》一键领取入口《《《《《《首次发现:用对这招轻松牢记10000单词——点此进入（因为刚开始，要有一些基本的信息需要大家知道，今天的主题：你为什么记不住单词？因为你正在采用的记忆方法与大脑的记忆规律相违背！你不按大脑存储信息的套路出牌，大脑当然不跟你合作，不去存储你要记的单词！大脑记忆规律：分组；重复；旧辅新知。分组大脑在比较短的时间内，只能记住7±2组信息（也就是5-9组信息）你之前可能",
+            "isFree": false,
+            "isPaid": false,
+            "isVideo": false,
+            "nickname": "九词君",
+            "paidType": 0,
+            "playPathAacv164": "http://aod.cos.tx.xmcdn.com/group25/M0B/48/31/wKgJMViS_gejPVYuAEdVvwUaRJU678.m4a",
+            "playPathAacv224": "http://aod.cos.tx.xmcdn.com/group25/M0B/48/30/wKgJMViS_f-h94jfABtI49ar1vA382.m4a",
+            "playsCounts": 714591,
+            "recInfo": {
+                "recReason": "外语",
+                "recReasonType": "TAG"
+            },
+            "title": "【知识普及】为什么你会记不住单词？W",
+            "trackId": 29753833,
+            "uid": 34230431
+        },
+        "itemType": "TRACK"
+    }, {
+        "item": {
+            "albumId": 30210574,
+            "albumScore": 9.4,
+            "category": "娱乐",
+            "categoryId": 4,
+            "contractStatus": 0,
+            "coverPath": "http://imagev2.xmcdn.com/group68/M05/30/62/wKgMeF26TsyD2TnRAAf0BlTJ9mE912.jpg!op_type=5&upload_type=album&device_type=ios&name=large&magick=png",
+            "dislikeReasonNew": {
+                "default": [{
+                    "codeType": "DEFAULT",
+                    "name": "不感兴趣"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "听过了"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "内容质量差"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "不喜欢主播"
+                }],
+                "traits": [{
+                    "codeType": "CATEGORY",
+                    "name": "娱乐"
+                }, {
+                    "codeType": "FLATCATEGORY",
+                    "name": "悬疑"
+                }]
+            },
+            "dislikeReasons": [{
+                "name": "不感兴趣",
+                "value": "DEFAULT"
+            }, {
+                "name": "听过了",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢主播",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢:娱乐",
+                "value": "CATEGORY"
+            }, {
+                "name": "不喜欢:悬疑",
+                "value": "FLATCATEGORY"
+            }],
+            "firstTrackId": 335022252,
+            "firstTrackTitle": "经典民间恐怖故事，一秒入戏，彻夜难眠",
+            "intro": "经典民间恐怖故事，一秒入戏，彻夜难眠",
+            "isPaid": false,
+            "isSampleAlbumTimeLimited": false,
+            "lastUptrackAt": 1599644629000,
+            "lastUptrackTitle": "红皮鞋丨头七回魂（各位不要忘记点赞转发呀，谢谢喽）",
+            "nickname": "老刘讲故事工作室",
+            "playsCounts": 50270569,
+            "preferredType": 0,
+            "recInfo": {
+                "recReason": "NO.7 娱乐 热播榜",
+                "recReasonType": "RECSYS",
+                "recSrc": "ABM_UDRH.DeepFM~231V5.CV",
+                "recTrack": "FD.AMRA.1241.itfreq"
+            },
+            "serialState": 1,
+            "subscribeStatus": false,
+            "title": "恐怖故事丨老刘讲鬼故事",
+            "tracks": 189,
+            "type": 0,
+            "uid": 164179136
+        },
+        "itemType": "ALBUM"
+    }, {
+        "item": {
+            "albumId": 31337700,
+            "albumScore": 9.6,
+            "category": "人文",
+            "categoryId": 39,
+            "contractStatus": 0,
+            "coverPath": "http://imagev2.xmcdn.com/group67/M0B/B8/AA/wKgMd13wT2yhm2bxAAFWm_f4yf8197.jpg!op_type=5&upload_type=album&device_type=ios&name=large&magick=png",
+            "dislikeReasonNew": {
+                "default": [{
+                    "codeType": "DEFAULT",
+                    "name": "不感兴趣"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "听过了"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "内容质量差"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "不喜欢主播"
+                }],
+                "traits": [{
+                    "codeType": "CATEGORY",
+                    "name": "人文"
+                }, {
+                    "codeType": "FLATCATEGORY",
+                    "name": "国学名著"
+                }]
+            },
+            "dislikeReasons": [{
+                "name": "不感兴趣",
+                "value": "DEFAULT"
+            }, {
+                "name": "听过了",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢主播",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢:人文",
+                "value": "CATEGORY"
+            }, {
+                "name": "不喜欢:国学名著",
+                "value": "FLATCATEGORY"
+            }],
+            "firstTrackId": 0,
+            "firstTrackTitle": "研读山海经七年，小志带你走进一方山海",
+            "intro": "研读山海经七年，小志带你走进一方山海",
+            "isPaid": false,
+            "isSampleAlbumTimeLimited": false,
+            "lastUptrackAt": 1598516728000,
+            "lastUptrackTitle": "烛九阴的倒霉儿子（一）烛九阴轰轰烈烈的造娃运动",
+            "nickname": "爱讲神话的小志",
+            "playsCounts": 7206189,
+            "preferredType": 0,
+            "recInfo": {
+                "recReason": "NO.24 人文 热播榜",
+                "recReasonType": "RECSYS",
+                "recSrc": "ABM_UCFJ5HB.DeepFM~231V5.CV",
+                "recTrack": "FD.AMRA.1241.itfreq"
+            },
+            "serialState": 1,
+            "subscribeStatus": false,
+            "title": "山海经",
+            "tracks": 52,
+            "type": 0,
+            "uid": 41353652
+        },
+        "itemType": "ALBUM"
+    }, {
+        "item": {
+            "albumId": 17015854,
+            "albumScore": 9.4,
+            "category": "娱乐",
+            "categoryId": 4,
+            "contractStatus": 0,
+            "coverPath": "http://imagev2.xmcdn.com/group82/M08/9F/4C/wKg5HF9MnwnASlMWAAmu4dT8F18420.jpg!op_type=5&upload_type=album&device_type=ios&name=large&magick=png",
+            "dislikeReasonNew": {
+                "default": [{
+                    "codeType": "DEFAULT",
+                    "name": "不感兴趣"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "听过了"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "内容质量差"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "不喜欢主播"
+                }],
+                "traits": [{
+                    "codeType": "CATEGORY",
+                    "name": "娱乐"
+                }, {
+                    "codeType": "FLATCATEGORY",
+                    "name": "悬疑"
+                }]
+            },
+            "dislikeReasons": [{
+                "name": "不感兴趣",
+                "value": "DEFAULT"
+            }, {
+                "name": "听过了",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢主播",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢:娱乐",
+                "value": "CATEGORY"
+            }, {
+                "name": "不喜欢:悬疑",
+                "value": "FLATCATEGORY"
+            }],
+            "firstTrackId": 335432381,
+            "firstTrackTitle": "1秒入戏，带你走进那些恐怖诡异的故事里",
+            "intro": "1秒入戏，带你走进那些恐怖诡异的故事里",
+            "isPaid": false,
+            "isSampleAlbumTimeLimited": false,
+            "lastUptrackAt": 1599745677000,
+            "lastUptrackTitle": "柳树成精 | 灵异鬼事",
+            "nickname": "雨田故事",
+            "playsCounts": 75157661,
+            "preferredType": 0,
+            "recInfo": {
+                "recReason": "NO.8 娱乐 热播榜",
+                "recReasonType": "RECSYS",
+                "recSrc": "ABM_UDRH.DeepFM~231V5.CV",
+                "recTrack": "FD.AMRA.1241.itfreq"
+            },
+            "serialState": 1,
+            "subscribeStatus": false,
+            "title": "一听就上瘾的鬼故事【灵异鬼事】",
+            "tracks": 304,
+            "type": 0,
+            "uid": 70446399
+        },
+        "itemType": "ALBUM"
+    }, {
+        "item": {
+            "albumId": 39831692,
+            "albumScore": 9.6,
+            "category": "娱乐",
+            "categoryId": 4,
+            "contractStatus": 0,
+            "coverPath": "http://imagev2.xmcdn.com/group83/M00/E9/08/wKg5HV8MdimSdhkWACReHyngEKo618.jpg!op_type=5&upload_type=album&device_type=ios&name=large&magick=png",
+            "dislikeReasonNew": {
+                "default": [{
+                    "codeType": "DEFAULT",
+                    "name": "不感兴趣"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "听过了"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "内容质量差"
+                }, {
+                    "codeType": "DEFAULT",
+                    "name": "不喜欢主播"
+                }],
+                "traits": [{
+                    "codeType": "CATEGORY",
+                    "name": "娱乐"
+                }]
+            },
+            "dislikeReasons": [{
+                "name": "不感兴趣",
+                "value": "DEFAULT"
+            }, {
+                "name": "听过了",
+                "value": "DEFAULT"
+            }, {
+                "name": "内容质量差",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢主播",
+                "value": "DEFAULT"
+            }, {
+                "name": "不喜欢:娱乐",
+                "value": "CATEGORY"
+            }],
+            "firstTrackId": 176361880,
+            "firstTrackTitle": "【24】狐狸金豆",
+            "intro": "风靡天涯、知乎、最右的人气怪谈作家叶木喊山最经典的民间传说《西北乡村诡事录》正式上线挑帘秀联手叶木喊山，高频更新，优质作品带您一起领略苍凉的西北风光，畅听原汁原味的民间怪谈！",
+            "isPaid": false,
+            "isSampleAlbumTimeLimited": false,
+            "lastUptrackAt": 1599661036000,
+            "lastUptrackTitle": "【24】狐狸金豆",
+            "nickname": "正声雅音挑帘秀",
+            "playsCounts": 567303,
+            "preferredType": 0,
+            "recInfo": {
+                "recReason": "NO.7 娱乐 新品榜",
+                "recReasonType": "RECSYS",
+                "recSrc": "ABM_UCFJ5HB.DeepFM~231V5.CV",
+                "recTrack": "FD.AMRA.1241.itfreq"
+            },
+            "serialState": 0,
+            "subscribeStatus": false,
+            "title": "西北乡村诡事录",
+            "tracks": 25,
+            "type": 0,
+            "uid": 37661867
+        },
+        "itemType": "ALBUM"
+    }],
+    "isNewUser": false,
+    "profileId": 200025
+}

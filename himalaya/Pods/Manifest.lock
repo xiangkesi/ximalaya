@@ -1,0 +1,102 @@
+PODS:
+  - Alamofire (5.2.2)
+  - FreeStreamer (4.0.0):
+    - Reachability (~> 3.0)
+  - IGListDiffKit (4.0.0)
+  - IGListKit (4.0.0):
+    - IGListDiffKit (= 4.0.0)
+  - Kingfisher (5.15.0):
+    - Kingfisher/Core (= 5.15.0)
+  - Kingfisher/Core (5.15.0)
+  - KingfisherWebP (0.7.0):
+    - Kingfisher (~> 5.8)
+    - libwebp (>= 0.5.0)
+  - libwebp (1.1.0):
+    - libwebp/demux (= 1.1.0)
+    - libwebp/mux (= 1.1.0)
+    - libwebp/webp (= 1.1.0)
+  - libwebp/demux (1.1.0):
+    - libwebp/webp
+  - libwebp/mux (1.1.0):
+    - libwebp/demux
+  - libwebp/webp (1.1.0)
+  - MJRefresh (3.4.3)
+  - MMKV (1.2.2):
+    - MMKVCore (~> 1.2.2)
+  - MMKVCore (1.2.2)
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+  - Moya/RxSwift (14.0.0):
+    - Moya/Core
+    - RxSwift (~> 5.0)
+  - ObjectMapper (4.2.0)
+  - Reachability (3.2)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+  - SnapKit (5.0.1)
+  - YYCache (1.0.4)
+  - YYText (1.0.7)
+
+DEPENDENCIES:
+  - FreeStreamer (~> 4.0.0)
+  - IGListKit (~> 4.0.0)
+  - KingfisherWebP (~> 0.7.0)
+  - MJRefresh (~> 3.4.3)
+  - MMKV (~> 1.2.1)
+  - Moya/RxSwift
+  - ObjectMapper (~> 4.2.0)
+  - RxCocoa
+  - SnapKit
+  - YYCache
+  - YYText (~> 1.0.7)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - FreeStreamer
+    - IGListDiffKit
+    - IGListKit
+    - Kingfisher
+    - KingfisherWebP
+    - libwebp
+    - MJRefresh
+    - MMKV
+    - MMKVCore
+    - Moya
+    - ObjectMapper
+    - Reachability
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SnapKit
+    - YYCache
+    - YYText
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  FreeStreamer: 7e9c976045701ac2f7e9c14c17245203c37bf2ea
+  IGListDiffKit: 665d6cf43ce726e676013db9c7d6c4294259b6b2
+  IGListKit: fd5a5d21935298f5849fa49d426843cff97b77c7
+  Kingfisher: 1acb67597a520c2d0310677e66d6e0af455ef757
+  KingfisherWebP: 50d8389a48a9004c36e655470ccbff96de1ced9c
+  libwebp: 04242ef451672185c1fe41b285a034d2fbda483c
+  MJRefresh: 53e3e3219f204425ee6d3e62e8733d3295944cd6
+  MMKV: b14909757d8b70e2aa89ff1c6d56a7b239e10a29
+  MMKVCore: 6225324fe5006026bc86ef8641d567e00c6582f3
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  YYCache: 8105b6638f5e849296c71f331ff83891a4942952
+  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+
+PODFILE CHECKSUM: aa08bea0d17dcda7545a81512e519b658f97c3df
+
+COCOAPODS: 1.9.3
